@@ -3,10 +3,6 @@ start.sh
 
 #!/bin/bash
 
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
 clear
 echo -e  "
 
